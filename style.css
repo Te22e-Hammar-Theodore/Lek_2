@@ -1,0 +1,50 @@
+body {
+  background-color: orange;
+}
+
+h1,
+h2 {
+  background-color: black;
+  color: yellow;
+}
+
+p {
+  background-color: black;
+  color: orange;
+}
+
+b,
+q,
+i,
+del {
+  background-color: yellow;
+  color: black;
+}
+
+ul,
+ol {
+  background-color: yellow;
+}
+
+li {
+  background-color: yellow;
+  color: black;
+}
+button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a {
+  color: yellow;
+}
+img {
+  align-items: center;
+  width: 1400px;
+  height: 300px;
+}
